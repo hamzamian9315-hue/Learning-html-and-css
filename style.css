@@ -1,0 +1,64 @@
+div#Header {
+    color: rgb(85, 0, 0);
+    background-color: aqua;
+    height: 500px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+body {
+    background-color: rgb(216, 214, 117);
+}
+input {
+    background-color: rgb(88, 88, 88);
+    color: rgb(0, 41, 75);
+}
+button {
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 255);
+}
+a {
+    color: rgb(99, 99, 139);
+}
+p {
+    color: rgb(0, 0, 0);
+}
+h2 {
+    color: rgb(0, 85, 0);
+    text-align: center;
+    background-color: rgb(168, 224, 166);
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+h3 {
+    color: rgb(0, 0, 85);
+    text-align: center;
+    background-color: rgb(192, 126, 126);
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+h1 {
+    color: rgb(19, 228, 0);
+    text-align: center;
+    background-color: rgb(85, 0, 0);
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+#Content {
+    background-color: rgb(212, 178, 157);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+
+a {
+    text-decoration: none;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
